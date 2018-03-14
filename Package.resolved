@@ -11,6 +11,24 @@
         }
       },
       {
+        "package": "Auth",
+        "repositoryURL": "https://github.com/vapor/auth.git",
+        "state": {
+          "branch": null,
+          "revision": "0159803fc2cf2e38aeeb3ba4ba42358886923b1b",
+          "version": "2.0.0-rc.2"
+        }
+      },
+      {
+        "package": "CDiscount",
+        "repositoryURL": "https://github.com/crossroadlabs/CDiscount.git",
+        "state": {
+          "branch": null,
+          "revision": "c7482f161c9d4d9c45fbd790dabb9859c2feafea",
+          "version": "2.2.1"
+        }
+      },
+      {
         "package": "Console",
         "repositoryURL": "https://github.com/vapor/console.git",
         "state": {
@@ -65,6 +83,15 @@
         }
       },
       {
+        "package": "FluentMySQL",
+        "repositoryURL": "https://github.com/vapor/mysql-driver.git",
+        "state": {
+          "branch": null,
+          "revision": "25d442980a32bbc58ae00702c3af01fdaac403a3",
+          "version": "3.0.0-rc.1.1"
+        }
+      },
+      {
         "package": "FluentSQLite",
         "repositoryURL": "https://github.com/vapor/fluent-sqlite.git",
         "state": {
@@ -74,11 +101,47 @@
         }
       },
       {
+        "package": "Leaf",
+        "repositoryURL": "https://github.com/vapor/leaf.git",
+        "state": {
+          "branch": null,
+          "revision": "25583fb3e3e40bf38ef7f762a05690f07d604060",
+          "version": "3.0.0-rc.1"
+        }
+      },
+      {
+        "package": "Markdown",
+        "repositoryURL": "https://github.com/crossroadlabs/Markdown.git",
+        "state": {
+          "branch": null,
+          "revision": "10d9237e0906cba9470b728b0ce91ea1f40d6fe4",
+          "version": "1.0.0-alpha.2"
+        }
+      },
+      {
+        "package": "MySQL",
+        "repositoryURL": "https://github.com/vapor/mysql.git",
+        "state": {
+          "branch": null,
+          "revision": "ec23247869c0805506982aaa740e362286986b40",
+          "version": "3.0.0-rc.1.1"
+        }
+      },
+      {
         "package": "Routing",
         "repositoryURL": "https://github.com/vapor/routing.git",
         "state": {
           "branch": null,
           "revision": "8210d28691a11d0d27b7a0b32117d7fd81099916",
+          "version": "3.0.0-rc.1"
+        }
+      },
+      {
+        "package": "SQLite",
+        "repositoryURL": "https://github.com/vapor/sqlite.git",
+        "state": {
+          "branch": null,
+          "revision": "951e4f128d15a8a49e009fcf7a49f8e66e189eb7",
           "version": "3.0.0-rc.1"
         }
       },
@@ -101,11 +164,20 @@
         }
       },
       {
-        "package": "SQLite",
-        "repositoryURL": "https://github.com/vapor/sqlite.git",
+        "package": "SwiftSlug",
+        "repositoryURL": "https://github.com/twostraws/SwiftSlug.git",
         "state": {
           "branch": null,
-          "revision": "951e4f128d15a8a49e009fcf7a49f8e66e189eb7",
+          "revision": "a243d16ff574951545a27caad48ec7dccd54a062",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "TLS",
+        "repositoryURL": "https://github.com/vapor/tls.git",
+        "state": {
+          "branch": null,
+          "revision": "648e653758ad29f7087c95a91bc0d183712b94ab",
           "version": "3.0.0-rc.1"
         }
       },
@@ -116,15 +188,6 @@
           "branch": null,
           "revision": "cda3174c5e029526a5b11b19fcfd83bd65b6876a",
           "version": "1.0.0-rc.1.1"
-        }
-      },
-      {
-        "package": "TLS",
-        "repositoryURL": "https://github.com/vapor/tls.git",
-        "state": {
-          "branch": null,
-          "revision": "648e653758ad29f7087c95a91bc0d183712b94ab",
-          "version": "3.0.0-rc.1"
         }
       },
       {
